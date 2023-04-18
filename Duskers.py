@@ -537,7 +537,7 @@ def main():
     difficulties:
     easy - all encounter chances are lowered by 20%
     medium - all encounter chances will be default
-    hard - all encounter changes are raised by 20%
+    hard - all encounter chances are raised by 20%
 
     """
 
